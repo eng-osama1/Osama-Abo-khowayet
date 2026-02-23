@@ -15,7 +15,7 @@ I'm a **Flutter Developer** and Computer Engineer specializing in building **pro
 ### 🚀 My Flutter Journey
 
 ```dart
-class Osama ABO-KHOWAYET extends FlutterDeveloper {
+class OsamaAboKhowayet extends FlutterDeveloper {
   final String specialty = "Mobile App Development";
   final List<String> expertise = [
     "Flutter & Dart",
@@ -50,7 +50,7 @@ Beautiful UIs are just the beginning. I focus on smooth animations, intuitive na
 Seamless backend integration with Firebase services—Authentication, Firestore, Realtime Database, and Cloud Storage—to create fully functional, cloud-connected applications.
 
 📱 **Real-World Projects**  
-From e-commerce platforms to educational simulators, I've built apps that solve real problems and deliver tangible value.
+From e-commerce platforms to IoT solutions and educational simulators, I've built apps that solve real problems and deliver tangible value.
 
 ## 🛠️ My Flutter Tech Stack
 
@@ -102,6 +102,12 @@ dependencies:
 - ✅ Authentication & Authorization
 - ✅ Cloud Storage Management
 
+**IoT & Hardware Integration**
+- ✅ Raspberry Pi Integration
+- ✅ RFID Systems
+- ✅ Real-time Hardware Communication
+- ✅ Sensor Data Visualization
+
 **Best Practices**
 - ✅ Code Organization & Structure
 - ✅ Reusable Component Design
@@ -126,6 +132,28 @@ dependencies:
 
 ---
 
+### 🚗 Smart Car Parking System (IoT + Flutter)
+> Full-stack IoT solution with mobile app management
+
+**Mobile App Features:**
+- 📱 **Flutter-based admin and user apps**
+- 🎫 Real-time parking slot availability monitoring
+- 👤 User authentication and profile management
+- 💳 Subscription-based access control system
+- 📊 Dashboard with parking statistics & analytics
+- 🔔 Push notifications for parking events
+- 🗺️ Interactive parking lot visualization
+
+**Hardware Integration:**
+- 🤖 Raspberry Pi control system
+- 📡 RFID sensor integration for vehicle identification
+- ☁️ Firebase Realtime Database for instant sync
+- 🔄 Bidirectional communication between hardware and app
+
+**Tech Stack:** Flutter, Dart, Firebase (Realtime DB, Auth, Cloud Functions), Raspberry Pi, RFID, Python
+
+---
+
 ### 💾 Computer Architecture Simulator
 > Educational app making complex concepts accessible
 
@@ -139,16 +167,20 @@ dependencies:
 
 ---
 
-### 🚗 Smart Parking IoT Solution
-> Bridging hardware and software seamlessly
+### 📡 Signal Modulation Visualization Tool
+> Desktop application for signal processing education
 
 **Key Features:**
-- 🤖 Raspberry Pi & RFID integration
-- ☁️ Cloud-based management system
-- 📊 Real-time monitoring dashboard
-- 🎫 Subscription & access control
+- 🌊 Real-time AM/FM signal visualization
+- 📊 Interactive waveform plotting with NumPy & Matplotlib
+- 🎛️ Dynamic user controls for signal parameters
+- 📈 Live frequency and amplitude modulation display
+- 🔬 Educational tool for understanding signal processing
+- 🎨 Clean PyQt5 interface design
 
-**Tech Stack:** Flutter, Firebase, Raspberry Pi, Python
+**Tech Stack:** Python, PyQt5, NumPy, Matplotlib, Digital Signal Processing
+
+---
 
 ## 📈 Current Focus & Learning
 
@@ -161,6 +193,7 @@ final List<String> currentLearning = [
   "Testing Best Practices (TDD)",
   "CI/CD for Flutter Apps",
   "Bloc Pattern alongside Riverpod",
+  "IoT Integration with Flutter",
 ];
 
 // Future exploration:
@@ -169,6 +202,7 @@ final List<String> futureGoals = [
   "AR/VR in Flutter",
   "Contributing to Flutter Open Source",
   "Building Flutter Packages",
+  "Advanced IoT Solutions",
 ];
 ```
 
@@ -194,6 +228,7 @@ class WhyMe {
     "⚡ Performance-optimized solutions",
     "🎨 Eye for design & UX",
     "🔥 Firebase integration expert",
+    "🤖 IoT & Hardware integration experience",
     "📚 Continuous learner",
     "🤝 Team player & collaborator",
     "🎯 Deadline-oriented",
@@ -206,7 +241,7 @@ class WhyMe {
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always excited to discuss Flutter, mobile development, or potential collaboration opportunities!
+I'm always excited to discuss Flutter, mobile development, IoT solutions, or potential collaboration opportunities!
 
 <div align="center">
 
