@@ -1,4 +1,4 @@
-# 👨‍💻 Osama ABO-KHOWAYET | Flutter Developer
+# 👨‍💻 Osama Abokhowit | Flutter Developer
 
 <div align="center">
   
