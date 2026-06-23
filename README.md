@@ -243,7 +243,7 @@ I'm always excited to discuss Flutter, mobile development, IoT solutions, or pot
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-abokhowit-056810293/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.osama.eng@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-02569B?style=for-the-badge&logo=flutter&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://osamaog.com/)
 
 </div>
 
